@@ -16,3 +16,8 @@ __Check out the [various images](https://www.artbreeder.com/lineage?k=6a8e994b1e
 
 ## Why do we want to do this?
 If its not obvious by this point then we have no reason...
+
+
+## Ideas
+- Netlfix like recommendation, but for youtube - @KJ
+- Can we do something to tackle racial / gender bias in data? - @KM
