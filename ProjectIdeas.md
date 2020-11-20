@@ -23,3 +23,4 @@ If its not obvious by this point then we have no reason...
 - Can we do something to tackle racial / gender bias in data? - @KM
 - Sentiment summary of reviews, (extracting themes) - @KJ
 - https://scifithroughtheages.com/ - reverse lookup - @KJ
+- Crime in India EDA - https://www.kaggle.com/rajanand/crime-in-india
